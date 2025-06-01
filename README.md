@@ -1,5 +1,7 @@
 # 🎂 Receitas de Bolo
 
+![Banner do projeto](frontend/public/previa.png)
+
 Um site de receitas desenvolvido em **React** (frontend) e **PHP + MySQL** (backend), criado com o objetivo de aprender e praticar o desenvolvimento web fullstack.
 
 ---
